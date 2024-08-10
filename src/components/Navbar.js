@@ -91,7 +91,7 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/theMuhammad/PortfolioMw"
+                href="https://github.com/theMuhammad/redesigned-octo-sniffle"
                 target="_blank"
                 className="fork-btn-inner"
               >
